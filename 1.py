@@ -9,7 +9,7 @@ if (room % 8) == 0:
  print(stage-1, floor+8)
 else:
  print(stage, floor)
-#print(test)
+
 
 
 
